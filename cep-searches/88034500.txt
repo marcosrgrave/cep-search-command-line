@@ -1,0 +1,5 @@
+CEP: 88034-500
+Logradouro: Avenida Buriti
+Bairro: Itacorubi
+Localidade: Florianópolis
+UF: SC

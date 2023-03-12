@@ -1,0 +1,5 @@
+CEP: 88034-600
+Logradouro: Rua Salvatina Feliciana dos Santos
+Bairro: Itacorubi
+Localidade: Florianópolis
+UF: SC
